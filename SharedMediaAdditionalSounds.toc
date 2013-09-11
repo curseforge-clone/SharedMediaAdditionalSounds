@@ -1,7 +1,7 @@
-## Interface: 50300
+## Interface: 50400
 ## Title: SharedMediaAdditionalSounds
 ## Notes: Adds sounds 
-## Version: 1.0
+## Version: 1.1
 ## Author: Stassart
 ## OptionalDeps: LibSharedMedia-3.0, LibSharedMedia-2.0, SharedMediaLib
 ## X-Category: Audio & Video
