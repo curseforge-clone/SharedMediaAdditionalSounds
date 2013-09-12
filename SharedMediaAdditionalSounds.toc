@@ -9,7 +9,6 @@
 ## X-Website: http://www.curse.com/addons/wow/sharedmediaadditionalsounds
 ## X-Credits: pb_ee1
 ## LoadOnDemand: 0
-## X-Embeds: Ace3
 
 #@no-lib-strip@
 embeds.xml
