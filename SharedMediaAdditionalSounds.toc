@@ -1,7 +1,7 @@
 ## Interface: 60100
 ## Title: SharedMediaAdditionalSounds
 ## Notes: Inserts additionnal sounds into SharedMediaLib's storage.
-## Version: 1.1
+## Version: 6.1
 ## Author: Stassart
 ## OptionalDeps: LibSharedMedia-3.0, LibSharedMedia-2.0, SharedMediaLib
 ## X-Category: Audio & Video
