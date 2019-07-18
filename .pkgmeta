@@ -1,0 +1,11 @@
+package-as: SharedMediaAdditionalSounds
+
+license-output: GPL.txt
+
+ignore:
+ - .pkgmeta
+
+externals:
+ libs/LibStub:
+  url: svn://svn.wowace.com/wow/libstub/mainline/trunk
+ 
