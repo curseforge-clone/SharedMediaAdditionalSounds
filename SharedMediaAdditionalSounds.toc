@@ -1,4 +1,4 @@
-## Interface: 80205
+## Interface: 80300
 ## Title: SharedMediaAdditionalSounds
 ## Notes: Inserts additionnal sounds into SharedMediaLib's storage.
 ## Version: 7.0
